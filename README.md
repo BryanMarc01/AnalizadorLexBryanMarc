@@ -1,2 +1,1 @@
-# AnalizadorLexBryanMarc
-AnalizadorLexBryanMarc
+# Analizador Lexico
